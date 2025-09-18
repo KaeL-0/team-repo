@@ -1,1 +1,1 @@
-Edited in main
+resolve conflict by directly editing the file.
